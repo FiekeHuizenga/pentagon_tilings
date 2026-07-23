@@ -66,4 +66,3 @@ def unique(R):
         p = R.get(X)
         result.update(canonical_representative(X,p))
     return result
-
